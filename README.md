@@ -1,4 +1,4 @@
-# Desafios e soluções da [dio.me](https://www.dio.me/)
+# Desafios de código e soluções da [dio.me](https://www.dio.me/)
 
 <p align="center">
 	<img alt="Repository language count" src="https://img.shields.io/github/languages/count/lucas11oliveira/DesafiosDeCodigo">
@@ -42,7 +42,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 					<td align="center">1</td>
 					<td>Multiplicação Simples</td>
 					<td>
-						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/ExibindoNumerosPares.java">
+						<a href="https://github.com/lucas11oliveira/DesafiosDeCodigo/blob/main/Desafios/C%20Sharp/Desafios%20Basicos%20C%23%20-%20Forma%C3%A7%C3%A3o%20em%20.NET/Multiplica%C3%A7%C3%A3o%20Simples/Solution.cs">
 							Código
 						</a>
 					</td>
@@ -52,7 +52,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 					<td align="center">2</td>
 					<td>Pink e Cérebro</td>
 					<td>
-						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/EntradaESaidaCPF.java">
+						<a href="https://github.com/lucas11oliveira/DesafiosDeCodigo/blob/main/Desafios/C%20Sharp/Desafios%20Basicos%20C%23%20-%20Forma%C3%A7%C3%A3o%20em%20.NET/Pink%20e%20C%C3%A9rebro/Solution.cs">
 							Código
 						</a>
 					</td>
@@ -62,7 +62,7 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 					<td align="center">3</td>
 					<td>Esfera</td>
 					<td>
-						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD.java">
+						<a href="https://github.com/lucas11oliveira/DesafiosDeCodigo/blob/main/Desafios/C%20Sharp/Desafios%20Basicos%20C%23%20-%20Forma%C3%A7%C3%A3o%20em%20.NET/Esfera/Solution.cs">
 							Código
 						</a>
 					</td>
