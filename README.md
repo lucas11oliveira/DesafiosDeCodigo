@@ -49,4 +49,34 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 				<th>Solução</th>
 				<th>Status</th>
 			</tr>
+                <tr>
+					<td align="center">1</td>
+					<td>Exibindo Números Pares</td>
+					<td>
+						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/ExibindoNumerosPares.java">
+							Código
+						</a>
+					</td>
+					<td align="center">✅</td>
+				</tr>
+				<tr>
+					<td align="center">2</td>
+					<td>Entrada e Saída CPF</td>
+					<td>
+						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/EntradaESaidaCPF.java">
+							Código
+						</a>
+					</td>
+					<td align="center">✅</td>
+				</tr>
+				<tr>
+					<td align="center">3</td>
+					<td>DDD</td>
+					<td>
+						<a href="https://github.com/didifive/desafios-dio/blob/master/desafios/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD.java">
+							Código
+						</a>
+					</td>
+					<td align="center">✅</td>
+				</tr>
 		</table>
