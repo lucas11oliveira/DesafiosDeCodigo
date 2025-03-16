@@ -10,7 +10,7 @@
 
 <p align="center">
 	<a href="https://dev.java/">
-	  <img alt="CSharp" src="https://img.shields.io/static/v1?color=green&label=Dev&message=CSharp&style=for-the-badge&logo=C-sharp">
+	  <img alt="CSharp" src="https://img.shields.io/static/v1?color=green&label=Dev&message=CSharp&style=for-the-badge&logo=c-sharp&logo">
 	</a>
 </p>
 
