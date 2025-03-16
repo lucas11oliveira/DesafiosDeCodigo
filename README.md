@@ -1,19 +1,16 @@
 # Desafios e soluções da [dio.me](https://www.dio.me/)
 
 <p align="center">
-	<img alt="Repository language count" src="https://img.shields.io/github/languages/count/didifive/desafios-dio">
-	<a href="https://www.linkedin.com/in/luis-carlos-zancanela/">
-		<img alt="Made by Didi" src="https://img.shields.io/badge/made%20by-Didi-green">
-	</a>
-	<a href="https://github.com/didifive/desafios-dio/commits/master">
-		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/didifive/desafios-dio?color=blue">
+	<img alt="Repository language count" src="https://img.shields.io/github/languages/count/lucas11oliveira/DesafiosDeCodigo">
+	<a href="https://github.com/lucas11oliveira/DesafiosDeCodigo">
+		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucas11oliveira/DesafiosDeCodigo?color=blue">
 	</a>
 	<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 </p>
 
 <p align="center">
 	<a href="https://dev.java/">
-	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=Java&style=for-the-badge&logo=Java">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=Java&style=for-the-badge&logo=CSharp">
 	</a>
 	<a href="https://www.javascript.com/">
 	  <img alt="Java" src="https://img.shields.io/static/v1?color=yellow&label=Dev&message=JavaScript&style=for-the-badge&logo=Javascript">
@@ -23,15 +20,15 @@
 	</a>
 </p>
 
-Este repositório foi criado para guardar e demonstrar como foram solucionados desafios realizados em bootcamps e eventos na plataforma da [dio.me](https://www.dio.me/)
+Este repositório foi criado para guardar e demonstrar como foram solucionados meus desafios realizados em bootcamps e eventos na plataforma da [dio.me](https://www.dio.me/)
 
 Sugestão: evite o copia e cola, a ideia dos desafios é que você os enfrente, então se na dificuldade chegou até aqui, aproveite para ver como o desafio foi solucionado e como pode ser melhorado, a análise é o mínimo a se fazer.
 
 Seguem abaixo os links para os desafios conforme a linguagem de programação:
 
-<!-- Java -->
+<!-- C Sharp -->
 <details>
-	<summary><strong>Java</strong></summary>
+	<summary><strong>C Sharp</strong></summary>
 	<br />
 	<div align="left">
 		<!-- Iniciando a programação em Java -->
