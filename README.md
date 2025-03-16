@@ -2,7 +2,7 @@
 
 <p align="center">
 	<img alt="Repository language count" src="https://img.shields.io/github/languages/count/lucas11oliveira/DesafiosDeCodigo">
-	<a href="https://github.com/lucas11oliveira/DesafiosDeCodigo/commits/master">
+	<a href="https://github.com/lucas11oliveira/DesafiosDeCodigo/commits/main">
 		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucas11oliveira/DesafiosDeCodigo?color=blue">
 	</a>
 	<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
