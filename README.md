@@ -27,8 +27,8 @@ Seguem abaixo os links para os desafios conforme a linguagem de programação:
 		<table border=1>
 			<tr>
 				<th colspan="4">
-				<a href="https://github.com/lucas11oliveira/DesafiosDeCodigo/tree/main/C%20Sharp">
-					Iniciando a programação em C#
+				<a href="https://github.com/lucas11oliveira/DesafiosDeCodigo/tree/main/Desafios/C%20Sharp/Desafios%20Basicos%20C%23%20-%20Forma%C3%A7%C3%A3o%20em%20.NET">
+					Desafios Basicos C# - Formação em .NET
 				</a>
 			</th>
 			</tr>
