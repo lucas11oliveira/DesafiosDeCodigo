@@ -10,7 +10,7 @@
 
 <p align="center">
 	<a href="https://dev.java/">
-	  <img alt="Java" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=green&label=Dev&message=CSharp&style=for-the-badge&logo=csharp">
 	</a>
 	<a href="https://www.javascript.com/">
 	  <img alt="Java" src="https://img.shields.io/static/v1?color=yellow&label=Dev&message=JavaScript&style=for-the-badge&logo=Javascript">
